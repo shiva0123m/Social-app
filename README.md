@@ -44,11 +44,11 @@ This project is a Database Management System (DBMS) that allows users to post im
 
 ## How to run
  ## for running the frontend 
-- do:
+ do:
 - cd client
 - npm start
  ## for running the backend
--do:
+ do:
  - cd api
  - node index.js
 
