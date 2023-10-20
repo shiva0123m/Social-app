@@ -2,8 +2,9 @@
 
 ## Project Overview
 This project is a Database Management System (DBMS) that allows users to post images, like images, follow and unfollow other users, check profiles, and delete posts. It's built using React.js, Node.js, Context API, and Bootstrap for the user interface.
+![Screenshot 2023-10-19 123519](https://github.com/shiva0123m/Social-app/assets/117260868/ba206994-8ef5-44de-bb3d-b839f023c60f)
+![Screenshot 2023-10-19 123230](https://github.com/shiva0123m/Social-app/assets/117260868/80dde0dd-b752-4a95-a2e0-350caa95fa45)
 
-![Screenshot 2023-10-19 124133](https://github.com/shiva0123m/Social-app/assets/117260868/3460323a-7cd3-4e9d-b386-b1e939a72f3d)
 
 
 
@@ -42,14 +43,14 @@ This project is a Database Management System (DBMS) that allows users to post im
 4.clone this repository
 
 ## How to run
-for running the frontend 
-do:
- 1. cd client 
- 2.npm start
-for running the backend
-do:
- 1.cd api
- 2.node index.js
+- for running the frontend 
+- do:
+- cd client
+- npm start
+- for running the backend
+-do:
+ - cd api
+ - node index.js
 
 ```bash
 git clone https://github.com/yourusername/dbms-project.git
