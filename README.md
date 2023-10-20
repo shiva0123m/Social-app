@@ -3,15 +3,16 @@
 ## Project Overview
 This project is a Database Management System (DBMS) that allows users to post images, like images, follow and unfollow other users, check profiles, and delete posts. It's built using React.js, Node.js, Context API, and Bootstrap for the user interface.
 
-![Project Screenshot](F:\Campus Connect(real)\New folder\Imageposts.png)
+![Project Screenshot 1](./images/Imageposts.png)
 
-![Project Screenshot](F:\Campus Connect(real)\New folder\Screenshot 2023-10-19 123046.png)
+![Project Screenshot 2](./images/Screenshot-1.png)
 
-![Project Screenshot](F:\Campus Connect(real)\New folder\Screenshot 2023-10-19 123138.png)
+![Project Screenshot 3](./images/Screenshot-2.png)
 
-![Project Screenshot](F:\Campus Connect(real)\New folder\Screenshot 2023-10-19 123230.png)
+![Project Screenshot 4](./images/Screenshot-3.png)
 
-![Project Screenshot](F:\Campus Connect(real)\New folder\Screenshot 2023-10-19 124133.png)
+![Project Screenshot 5](./images/Screenshot-4.png)
+
 
 
 ## Features
@@ -47,7 +48,7 @@ This project is a Database Management System (DBMS) that allows users to post im
 3.Install my sql as well
 4.clone this repository
 
-##how to run
+## How to run
 for running the frontend 
 do:
  1. cd client 
