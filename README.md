@@ -43,11 +43,11 @@ This project is a Database Management System (DBMS) that allows users to post im
 4.clone this repository
 
 ## How to run
-   ## for running the frontend 
+ ## for running the frontend 
 - do:
 - cd client
 - npm start
-  ## for running the backend
+ ## for running the backend
 -do:
  - cd api
  - node index.js
