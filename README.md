@@ -53,4 +53,4 @@ This project is a Database Management System (DBMS) that allows users to post im
  - node index.js
 
 ```bash
-git clone https://github.com/yourusername/dbms-project.git
+https://github.com/shiva0123m/Social-app.git
