@@ -3,15 +3,8 @@
 ## Project Overview
 This project is a Database Management System (DBMS) that allows users to post images, like images, follow and unfollow other users, check profiles, and delete posts. It's built using React.js, Node.js, Context API, and Bootstrap for the user interface.
 
-![Project Screenshot 1](./images/Imageposts.png)
+![Screenshot 2023-10-19 124133](https://github.com/shiva0123m/Social-app/assets/117260868/3460323a-7cd3-4e9d-b386-b1e939a72f3d)
 
-![Project Screenshot 2](./images/Screenshot-1.png)
-
-![Project Screenshot 3](./images/Screenshot-2.png)
-
-![Project Screenshot 4](./images/Screenshot-3.png)
-
-![Project Screenshot 5](./images/Screenshot-4.png)
 
 
 
